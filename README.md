@@ -1,12 +1,12 @@
-# 🏢 Elsewedy Electric: Industrial Manufacturing Financial Modeling & Risk Analysis
+# 🏢 Dynamic Industrial Manufacturing Financial Modeling & Risk Analysis
 
-This repository delivers a comprehensive, dynamic financial model tailored for a large-scale industrial manufacturing enterprise (simulating **Elsewedy Electric - Cables & Transformers Division**). It covers the end-to-end financial workflows of procuring core raw materials, calculating precise Landed Costs, structuring a multi-tiered Income Statement, and executing dynamic What-If Scenario Analysis to evaluate macroeconomic supply chain risks.
+This repository delivers a comprehensive, dynamic financial model tailored for a large-scale industrial manufacturing enterprise. It covers the end-to-end financial workflows of procuring core raw materials, calculating precise Landed Costs, structuring a multi-tiered Income Statement, and executing dynamic What-If Scenario Analysis to evaluate macroeconomic supply chain risks.
 
 ---
 
 ## 📊 1. Raw Materials Procurement & Landed Cost Structure
 
-The table below captures the detailed breakdown of raw materials procurement. This model calculates the total actual costs incurred to deliver commodities to the factory warehouse, including international ocean freight and local Egyptian customs clearance:
+The table below captures the detailed breakdown of raw materials procurement. This model calculates the total actual costs incurred to deliver commodities to the factory warehouse, including international ocean freight and local customs clearance:
 
 | Item / Material | Quantity (Qty) | Unit Price (FOB) | Total FOB Value | Shipping Costs | Customs Expenses | Total Landed Cost | Actual Unit Cost |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +39,7 @@ The table below presents the structured consolidated income statement for the in
 By extracting deep financial metrics from the dynamic Excel model, the following key performance indicators (KPIs) highlight the corporate financial resilience under strict supply chain stress:
 
 * **Gross Profit Margin (33.05%):** Demonstrates a strong profit buffer at the manufacturing level, proving that for every $100 of revenue, $33 remains to cover fixed industrial overheads and operational costs.
-* **Net Profit Margin (18.05%):** Even under adverse supply chain disruptions and severe raw material price shocks, the enterprise retains high bottom-line conversion efficiency, ensuring strong shareholder value.
+* **Net Profit Margin (18.05%):** Even under adverse supply chain disruptions and several raw material price shocks, the enterprise retains high bottom-line conversion efficiency, ensuring strong shareholder value.
 * **Logistics & Customs to COGS Ratio (11.00%):** Captures the exact weight of inbound supply chain costs. This metric provides vital transparency for procurement optimization and customs clearance forecasting.
 
 ---
